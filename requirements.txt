@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+faiss-cpu
+numpy
+python-dotenv
+pandas
+plotly
+langchain-text-splitters
+langchain-core
