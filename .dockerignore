@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environment variables (Safety first! Don't bake secrets into the image)
+.env
+
+# OS specific system files
+.DS_Store
+Thumbs.db
+
+# Other
+test_limit.py
